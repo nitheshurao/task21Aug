@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+/* Filename: App.css */
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.home,
+.services,
+.reports,
+.contact{
+	display: flex;
+	margin: 50%;
+	font-size: 2rem;
+}
